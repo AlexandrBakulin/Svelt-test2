@@ -15,7 +15,7 @@
                 <h2 class="subtitle">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus dicta voluptas pariatur alias rerum assumenda eum eligendi aperiam.</h2>
                 <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
                 <div style="color: black;" class="scroll-button animate-scroll" tabindex="0">
-                    <a href="about">Clock Here</a>
+                    <a href="">Clock Here</a>
                     <div class="arrow">&rarr;</div>
                 </div>
             </div>
